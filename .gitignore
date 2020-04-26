@@ -22,3 +22,5 @@ target/
 *.project
 .settings/
 .vscode/
+
+/hu.bme.mit.spaceship.iml

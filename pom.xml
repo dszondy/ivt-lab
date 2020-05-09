@@ -10,10 +10,6 @@
 		<sonar.projectKey>dszondy_ivt-lab</sonar.projectKey>
 		<sonar.organization>dszondy</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-<<<<<<< 8a1657ab1ea5f244651b1dd5bafbed242c923d71
-		<sonar.login>0ba170b3ce8998a823beda829e1e02160cc933ae</sonar.login>
-=======
->>>>>>> maven.yml
 	</properties>
 
 	<dependencies>
